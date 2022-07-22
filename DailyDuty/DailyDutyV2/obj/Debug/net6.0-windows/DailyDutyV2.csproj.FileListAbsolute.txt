@@ -1,0 +1,70 @@
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.exe
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.deps.json
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.runtimeconfig.json
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.pdb
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.AssemblyReference.cache
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.RegistrationForm.resources
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.GenerateResource.cache
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.AssemblyInfoInputs.cache
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.AssemblyInfo.cs
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.CoreCompileInputs.cache
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\refint\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.pdb
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.genruntimeconfig.cache
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\ref\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.LoginForm.resources
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.CopyComplete
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.MainForm.resources
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.Properties.Resources.resources
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty V!\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.AssemblyReference.cache
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.LoginForm.resources
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.MainForm.resources
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.Properties.Resources.resources
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.RegistrationForm.resources
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.GenerateResource.cache
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.AssemblyInfoInputs.cache
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.AssemblyInfo.cs
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.CoreCompileInputs.cache
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\refint\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.pdb
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.exe
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.deps.json
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.runtimeconfig.json
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\DailyDutyV2.pdb
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\ZstdNet.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.csproj.CopyComplete
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\DailyDutyV2.genruntimeconfig.cache
+C:\Users\tgior\source\repos\DailyDuty\DailyDutyV2\obj\Debug\net6.0-windows\ref\DailyDutyV2.dll
